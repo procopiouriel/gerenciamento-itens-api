@@ -21,7 +21,7 @@ API RESTful para gerenciamento de itens e autenticação de usuários, desenvolv
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Prof-Karan-Luciano/gerenciamento-itens-api.git
+   git clone https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/gerenciamento-itens-api.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
